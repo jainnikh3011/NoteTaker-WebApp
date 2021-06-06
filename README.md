@@ -6,17 +6,26 @@ Technologies used.
 FrontEnd
 
 HTML5
+
 CSS3
+
 Javascript (ES6)
+
 Ajax
+
 Bootstrap
+
 
 BackEnd
 
 Servlet
+
 Java Server Page (JSP)
+
 MySql
+
 Maven build tool
+
 
 Framework used: 
 
