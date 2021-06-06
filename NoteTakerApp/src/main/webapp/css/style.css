@@ -1,0 +1,24 @@
+.purple{
+	background: #0097a7;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap'); */
+
+/* body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Just Another Hand', cursive;
+  color:#673ab7!important;
+} */
+
+.bg {
+  /* The image used */
+  background-image: url("nay.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
